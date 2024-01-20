@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yash Madhani</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding gif" width="400" src="https://media.licdn.com/dms/image/C5622AQErlQlcPler2g/feedshare-shrink_2048_1536/0/1587628396592?e=2147483647&v=beta&t=6gbzpglnet87uHEUlsH1GBq6TM1FaNsD8xcWeKZmWa0">
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 💬 Ask me about **Full-Stack Development(MERN, tailwind CSS)**
 
@@ -17,6 +17,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yash-madhani&show_icons=true&locale=en&layout=compact" alt="yash-madhani" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yash-madhani&show_icons=true&locale=en" alt="yash-madhani" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yash-madhani&show_icons=true&locale=en" alt="yash-madhani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yash-madhani&" alt="yash-madhani" /></p>
