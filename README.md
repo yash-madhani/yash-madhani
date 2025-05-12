@@ -4,15 +4,6 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
   
 
-- 🌱 I’m currently learning DevOps and Cloud Computing  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
 - 📫 How to reach me **yashmadhani2810@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1mf5bo9XygopeCX3DoZ4EV1iGkpi5fYpuFSzTyPSf0wY/edit?usp=sharing)
